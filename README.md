@@ -34,3 +34,6 @@
 ---
 
 **Контакт в игре:** CMDR !N1NJA!
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rewtwrtr&show_icons=true&theme=dark&hide_title=true)
